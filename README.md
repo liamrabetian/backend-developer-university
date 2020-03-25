@@ -1,10 +1,9 @@
-# backend-developer-university
-
-
 
 # Backend Deveoper Learning Path
 ![](images/path.jpg)
 
+## Authentication
+- [ ] Understanding Authentication, Authorization, and Encryption(https://www.bu.edu/tech/about/security-resources/bestpractice/auth/)
 
 ## Search Engines
 - [ ] Elastic Search:
