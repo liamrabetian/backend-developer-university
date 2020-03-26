@@ -2,6 +2,10 @@
 # Backend Deveoper Learning Path
 ![](images/path.jpg)
 
+## Languages
+- [ ] Python:
+  -[ ] [Python official Tutorial](https://docs.python.org/3/tutorial/index.html)
+
 ## Frameworks
 - [ ] Django:
   - [ ] [Django project documentation](https://docs.djangoproject.com/en/3.0/)
