@@ -4,7 +4,7 @@
 
 ## Languages
 - [ ] Python:
-  -[ ] [Python official Tutorial](https://docs.python.org/3/tutorial/index.html)
+  - [ ] [Python official Tutorial](https://docs.python.org/3/tutorial/index.html)
 
 ## Frameworks
 - [ ] Django:
