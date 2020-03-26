@@ -11,6 +11,7 @@
 ### Sync
 - [ ] Django:
   - [ ] [Django project documentation](https://docs.djangoproject.com/en/3.0/)
+  - [ ] [Two Scoops Of Django](https://www.amazon.com/Two-Scoops-Django-1-11-Practices/dp/0692915729)
 
 ## Authentication
 - [ ] [Understanding Authentication, Authorization, and Encryption](https://www.bu.edu/tech/about/security-resources/bestpractice/auth/)
