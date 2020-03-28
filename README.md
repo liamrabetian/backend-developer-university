@@ -3,6 +3,7 @@
 ![](images/path.jpg)
 
 ## Languages
+![](images/language.png)
 - [ ] Python:
   - [ ] [Python official Tutorial](https://docs.python.org/3/tutorial/index.html)
   - [ ] [Real Python Tutorials](https://realpython.com/)
