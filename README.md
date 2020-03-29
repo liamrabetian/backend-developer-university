@@ -20,7 +20,7 @@
 
 ### relational databases
 - [ ] Postgres:
-  -[ ] [Installing pgadmin on ubuntu](https://computingforgeeks.com/how-to-install-pgadmin-4-on-ubuntu/)
+  - [ ] [Installing pgadmin on ubuntu](https://computingforgeeks.com/how-to-install-pgadmin-4-on-ubuntu/)
 
 ## Authentication
 - [ ] [Understanding Authentication, Authorization, and Encryption](https://www.bu.edu/tech/about/security-resources/bestpractice/auth/)
