@@ -35,7 +35,8 @@
 ## Docker
 ![](images/docker.png)
 
-- [ ] [Docker ofiicial documentation](https://docs.docker.com/install/)
+- [ ] [Install Docker Engine - official website](https://docs.docker.com/install/)
+- [ ] [Install Docker-Compose - official website](https://docs.docker.com/compose/)
 - [ ] [A beginner's guide to Docker](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f/)
 - [ ] [A beginner's guide to Docker-part 2](https://herewecode.io/blog/a-beginners-guide-to-docker-how-to-create-a-client-server-side-with-docker-compose/)
 - [ ] [How to start a Django Project with Docker](https://coderbook.com/@marcus/how-to-start-a-django-project-with-docker/)
