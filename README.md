@@ -15,6 +15,13 @@
   - [ ] [Django project documentation](https://docs.djangoproject.com/en/3.0/)
   - [ ] [Two Scoops Of Django](https://www.amazon.com/Two-Scoops-Django-1-11-Practices/dp/0692915729)
 
+## Storage
+![](images/database.png)
+
+### relational databases
+- [ ] Postgres:
+  -[ ] [Installing pgadmin on ubuntu](https://computingforgeeks.com/how-to-install-pgadmin-4-on-ubuntu/)
+
 ## Authentication
 - [ ] [Understanding Authentication, Authorization, and Encryption](https://www.bu.edu/tech/about/security-resources/bestpractice/auth/)
 - [ ] OAuth:
