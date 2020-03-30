@@ -41,6 +41,8 @@
 - [ ] [A beginner's guide to Docker-part 2](https://herewecode.io/blog/a-beginners-guide-to-docker-how-to-create-a-client-server-side-with-docker-compose/)
 - [ ] [How to start a Django Project with Docker](https://coderbook.com/@marcus/how-to-start-a-django-project-with-docker/)
 - [ ] [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/)
+- [ ] Additional Reading:
+  - [ ] [Docker for Python Developers](https://mherman.org/presentations/dockercon-2018/#1)
       
 ## Search Engines
 - [ ] Elastic Search:
