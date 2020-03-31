@@ -48,3 +48,8 @@
 - [ ] Elastic Search:
   - [ ] [Get to know elasticsearch](https://www.botreetechnologies.com/blog/elasticsearch-with-django-part-4) <b> 4 parts </b>
   - [ ] [Elasticsearch and Django!](https://sunscrapers.com/blog/how-to-use-elasticsearch-with-django/)
+  
+  
+  ## Additional 
+  - [ ] WebSocket:
+    - [ ] [Everything you ever wanted to know about WebSockets, literally!](https://hackernoon.com/everything-you-ever-wanted-to-know-about-websockets-literally-a05f36432999)
