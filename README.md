@@ -43,6 +43,7 @@
 - [ ] [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/)
 - [ ] Additional Reading:
   - [ ] [Docker for Python Developers](https://mherman.org/presentations/dockercon-2018/#1)
+  - [ ] [Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)
       
 ## Search Engines
 - [ ] Elastic Search:
