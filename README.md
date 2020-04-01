@@ -5,6 +5,7 @@
 ## Languages
 ![](images/language.png)
 - [ ] Python:
+  - [ ] [Python official website](https://python.org/)
   - [ ] [Python official Tutorial](https://docs.python.org/3/tutorial/index.html)
   - [ ] [Real Python Tutorials](https://realpython.com/)
 
@@ -21,6 +22,12 @@
 ### relational databases
 - [ ] Postgres:
   - [ ] [Installing pgadmin on ubuntu](https://computingforgeeks.com/how-to-install-pgadmin-4-on-ubuntu/)
+
+## Web Server:
+- [ ] Nginx:
+  - [ ] [Nginx official website](https://www.nginx.com/)
+- [ ] Additional Resources:
+  - [ ] [Gunicorn](https://gunicorn.org/)
 
 ## Authentication
 - [ ] [Understanding Authentication, Authorization, and Encryption](https://www.bu.edu/tech/about/security-resources/bestpractice/auth/)
