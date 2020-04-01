@@ -44,6 +44,7 @@
 - [ ] Additional Reading:
   - [ ] [Docker for Python Developers](https://mherman.org/presentations/dockercon-2018/#1)
   - [ ] [Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)
+  - [ ] [9 Common Dockerfile Mistakes](https://runnable.com/blog/9-common-dockerfile-mistakes)
       
 ## Search Engines
 - [ ] Elastic Search:
