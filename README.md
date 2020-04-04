@@ -63,4 +63,4 @@
   - [ ] WebSocket:
     - [ ] [Everything you ever wanted to know about WebSockets, literally!](https://hackernoon.com/everything-you-ever-wanted-to-know-about-websockets-literally-a05f36432999)
   - [ ] Debugging:
-    - [Check out sentry](https://sentry.io)
+    - [ ] [Check out sentry](https://sentry.io)
