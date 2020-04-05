@@ -32,6 +32,7 @@
   - [ ] [Random Stuff](https://www.vertabelo.com/blog/others/)
 
 ## Web Server:
+![](images/webserver.jpg)
 - [ ] Nginx:
   - [ ] [Nginx official website](https://www.nginx.com/)
 - [ ] Additional Resources:
