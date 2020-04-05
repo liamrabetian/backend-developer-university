@@ -23,6 +23,14 @@
 - [ ] Postgres:
   - [ ] [Installing pgadmin on ubuntu](https://computingforgeeks.com/how-to-install-pgadmin-4-on-ubuntu/)
 
+- [ ] Additional Reading:
+  - [ ] [Database Design Fundamentals](https://www.vertabelo.com/blog/design_fundamentals/)
+  - [ ] [Design Patterns](https://www.vertabelo.com/blog/design_patterns/)
+  - [ ] [Database Design In Practical Examples](https://www.vertabelo.com/blog/example_models/)
+  - [ ] [SQL](https://www.vertabelo.com/blog/sql/)
+  - [ ] [Database Internals](https://www.vertabelo.com/blog/database_internals/)
+  - [ ] [Random Stuff](https://www.vertabelo.com/blog/others/)
+
 ## Web Server:
 - [ ] Nginx:
   - [ ] [Nginx official website](https://www.nginx.com/)
