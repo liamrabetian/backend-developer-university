@@ -85,7 +85,7 @@ A good resource for learning design patterns and refactoring:
 - [ ] [Refactoring Guru](https://refactoring.guru/)
 - [ ] [DESIGN PATTERNS in different programming languages](https://refactoring.guru/design-patterns/examples)
 
-and while your here, check out these [AntiPatterns!](https://sourcemaking.com/antipatterns)
+and while you're here, check out these [AntiPatterns!](https://sourcemaking.com/antipatterns)
   
   ## Additional 
   - [ ] WebSocket:
