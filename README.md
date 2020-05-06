@@ -68,8 +68,15 @@
 - [ ] Elastic Search:
   - [ ] [Get to know elasticsearch](https://www.botreetechnologies.com/blog/elasticsearch-with-django-part-4) <b> 4 parts </b>
   - [ ] [Elasticsearch and Django!](https://sunscrapers.com/blog/how-to-use-elasticsearch-with-django/)
+## OOP
+<img src="images/oop.jpg" width="755" height="422">
 
-## Design Patterns
+### SOLID
+<img src="images/solid.jpg" width="755" height="422">
+
+- [ ] [SOLID OOP Principles](https://www.youtube.com/playlist?list=PL4CE9F710017EA77A)
+
+### Design Patterns
 ![](images/design_patterns.jpg)
 
 A good resource for learning design patterns and refactoring:
