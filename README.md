@@ -33,8 +33,8 @@
   - [ ] [Random Stuff](https://www.vertabelo.com/blog/others/)
 
 ## Web Server
-
 <img src="images/webserver.jpg" width="755" height="422">
+
 - [ ] Nginx:
   - [ ] [Nginx official website](https://www.nginx.com/)
 - [ ] Additional Resources:
@@ -70,6 +70,8 @@
   - [ ] [Elasticsearch and Django!](https://sunscrapers.com/blog/how-to-use-elasticsearch-with-django/)
 ## OOP
 <img src="images/oop.jpg" width="755" height="422">
+
+- [ ] [How to explain object-oriented programming concepts to a 6-year-old](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
 
 ### SOLID
 <img src="images/solid.jpg" width="755" height="422">
