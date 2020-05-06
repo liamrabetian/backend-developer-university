@@ -3,7 +3,8 @@
 ![](images/path.jpg)
 
 ## Languages
-![](images/language.png)
+<img src="images/language.png" width="755" height="422">
+
 - [ ] Python:
   - [ ] [Python official website](https://python.org/)
   - [ ] [Python official Tutorial](https://docs.python.org/3/tutorial/index.html)
@@ -17,7 +18,7 @@
   - [ ] [Two Scoops Of Django](https://www.amazon.com/Two-Scoops-Django-1-11-Practices/dp/0692915729)
 
 ## Storage
-![](images/database.png)
+<img src="images/database.png" width="755" height="422">
 
 ### relational databases
 - [ ] Postgres:
@@ -31,8 +32,9 @@
   - [ ] [Database Internals](https://www.vertabelo.com/blog/database_internals/)
   - [ ] [Random Stuff](https://www.vertabelo.com/blog/others/)
 
-## Web Server:
-![](images/webserver.jpg)
+## Web Server
+
+<img src="images/webserver.jpg" width="755" height="422">
 - [ ] Nginx:
   - [ ] [Nginx official website](https://www.nginx.com/)
 - [ ] Additional Resources:
@@ -49,7 +51,7 @@
     - [OpenID Connect Debugger](https://oidcdebugger.com/)
 
 ## Docker
-![](images/docker.png)
+<img src="images/docker.png" width="755" height="422">
 
 - [ ] [Install Docker Engine - official website](https://docs.docker.com/install/)
 - [ ] [Install Docker-Compose - official website](https://docs.docker.com/compose/)
