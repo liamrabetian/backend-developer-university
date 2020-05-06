@@ -68,8 +68,9 @@
   - [ ] [Elasticsearch and Django!](https://sunscrapers.com/blog/how-to-use-elasticsearch-with-django/)
 
 ## Design Patterns
+![](images/design_patterns.jpg)
 
-A good resource for learning design patterns:
+A good resource for learning design patterns and refactoring:
 - [ ] [Refactoring Guru](https://refactoring.guru/)
   
   ## Additional 
