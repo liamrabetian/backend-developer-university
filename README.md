@@ -16,6 +16,10 @@
 - [ ] Django:
   - [ ] [Django project documentation](https://docs.djangoproject.com/en/3.0/)
   - [ ] [Two Scoops Of Django](https://www.amazon.com/Two-Scoops-Django-1-11-Practices/dp/0692915729)
+  - [ ] [Django Rest Framework](https://www.django-rest-framework.org/)
+  additional django stuff:
+  - [ ] [Classy Class-Based Views](http://ccbv.co.uk/)
+  - [ ] [Classy Django REST Framework](http://www.cdrf.co/)
 
 ## Storage
 <img src="images/database.png" width="755" height="422">
