@@ -83,6 +83,20 @@
 
 - [ ] [SOLID OOP Principles](https://www.youtube.com/playlist?list=PL4CE9F710017EA77A)
 
+### KISS, DRY, YAGNI
+<img src="images/kiss.jpg" width="755" height="422">
+
+These are software design principles, you'll get the meaning just by knowing the name meanings!
+
+- KISS : Keep it stupid, simple
+- DRY  : Don't repeat yourself
+- YAGNI: You ain't gonna need it!
+- TDA  : Tell don’t ask
+- SoC  : Separation of Concerns
+
+if you have time you can read a full article on this
+- [ ] [How to become a better programmer ?](https://medium.com/@derodu/design-patterns-kiss-dry-tda-yagni-soc-828c112b89ee)
+
 ### Design Patterns
 ![](images/design_patterns.jpg)
 
