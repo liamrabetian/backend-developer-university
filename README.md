@@ -105,6 +105,12 @@ A good resource for learning design patterns and refactoring:
 - [ ] [DESIGN PATTERNS in different programming languages](https://refactoring.guru/design-patterns/examples)
 
 and while you're here, check out these [AntiPatterns!](https://sourcemaking.com/antipatterns)
+
+### Architectural Styles & Patterns
+<img src="images/architecture.jpg" width="755" height="422">
+
+- [ ] [Types of Architectural Styles](https://www.youtube.com/watch?v=JLbo9Lvvy5M&list=PLmTD7qP4f9suAxW6qTAAILI4JjoY5V6ZN&index=1)
+- [ ] [Architectural styles and patterns](https://en.wikipedia.org/wiki/Software_architecture#Architectural_styles_and_patterns)
   
   ## Additional 
   - [ ] WebSocket:
