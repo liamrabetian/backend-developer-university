@@ -111,6 +111,7 @@ and while you're here, check out these [AntiPatterns!](https://sourcemaking.com/
 
 - [ ] [Types of Architectural Styles](https://www.youtube.com/watch?v=JLbo9Lvvy5M&list=PLmTD7qP4f9suAxW6qTAAILI4JjoY5V6ZN&index=1)
 - [ ] [Architectural styles and patterns](https://en.wikipedia.org/wiki/Software_architecture#Architectural_styles_and_patterns)
+- [ ] [API Styles: SOAP, REST, RPC, GraphQL and more](https://api-university.com/blog/styles-for-apis-soap-rest-and-rpc/)
   
   ## Additional 
   - [ ] WebSocket:
