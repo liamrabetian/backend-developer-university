@@ -113,6 +113,7 @@ and while you're here, check out these [AntiPatterns!](https://sourcemaking.com/
 - [ ] [Architectural styles and patterns](https://en.wikipedia.org/wiki/Software_architecture#Architectural_styles_and_patterns)
 - [ ] [What is SOA? - IBM explains](https://www.ibm.com/cloud/learn/soa)
 - [ ] [What is Event-Driven Architecture? - RedHat explains](https://www.redhat.com/en/topics/integration/what-is-event-driven-architecture)
+- [ ] [What are MicroServices? - Martin Fowler explains!](https://www.youtube.com/watch?v=wgdBVIX9ifA&list=LLW5HZo3PqiNz5m7z_WxJADA&index=8&t=0s)
 - [ ] [API Styles: SOAP, REST, RPC, GraphQL and more](https://api-university.com/blog/styles-for-apis-soap-rest-and-rpc/)
   
   ## Additional 
