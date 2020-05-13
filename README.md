@@ -111,7 +111,8 @@ and while you're here, check out these [AntiPatterns!](https://sourcemaking.com/
 
 - [ ] [Types of Architectural Styles](https://www.youtube.com/watch?v=JLbo9Lvvy5M&list=PLmTD7qP4f9suAxW6qTAAILI4JjoY5V6ZN&index=1)
 - [ ] [Architectural styles and patterns](https://en.wikipedia.org/wiki/Software_architecture#Architectural_styles_and_patterns)
-- [ ] [What is SOA?](https://www.ibm.com/cloud/learn/soa)
+- [ ] [What is SOA? - IBM explains](https://www.ibm.com/cloud/learn/soa)
+- [ ] [What is Event-Driven Architecture? - RedHat explains](https://www.redhat.com/en/topics/integration/what-is-event-driven-architecture)
 - [ ] [API Styles: SOAP, REST, RPC, GraphQL and more](https://api-university.com/blog/styles-for-apis-soap-rest-and-rpc/)
   
   ## Additional 
