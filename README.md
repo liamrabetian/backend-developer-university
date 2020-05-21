@@ -20,6 +20,8 @@
   - [ ] [Django Rest Framework](https://www.django-rest-framework.org/)
 - [ ] Flask:
   - [ ] [Flask Api Zero To Yoda](https://dev.to/paurakhsharma/flask-rest-api-part-0-setup-basic-crud-api-4650)
+  - [ ] [Flask Web Development Book](https://www.amazon.co.uk/dp/1491991739?psc=1&slotNum=0&th=1&linkCode=g12&imprToken=n2-thRHooSww6A-cepTIAQ&creativeASIN=1491991739&tag=reactdomuk-21)
+  - [ ] [Top Online Tutorials to Learn Flask Python](https://medium.com/quick-code/top-online-tutorials-to-learn-flask-python-c2723df5326c)
   
   #### additional django stuff:
   - [ ] [Classy Class-Based Views](http://ccbv.co.uk/)
