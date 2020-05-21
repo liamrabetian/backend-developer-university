@@ -11,12 +11,15 @@
   - [ ] [Real Python Tutorials](https://realpython.com/)
 
 ## Frameworks
+<img src="images/frameworks.jpg" width="755" height="422">
 
 ### Sync
 - [ ] Django:
   - [ ] [Django project documentation](https://docs.djangoproject.com/en/3.0/)
   - [ ] [Two Scoops Of Django](https://www.amazon.com/Two-Scoops-Django-1-11-Practices/dp/0692915729)
   - [ ] [Django Rest Framework](https://www.django-rest-framework.org/)
+- [ ] Flask:
+  - [ ] [Flask Api Zero To Yoda](https://dev.to/paurakhsharma/flask-rest-api-part-0-setup-basic-crud-api-4650)
   
   #### additional django stuff:
   - [ ] [Classy Class-Based Views](http://ccbv.co.uk/)
