@@ -12,6 +12,11 @@
   - [ ] [Python official Tutorial](https://docs.python.org/3/tutorial/index.html)
   - [ ] [Real Python Tutorials](https://realpython.com/)
 
+- [ ] Golang:
+  - [ ] [Golang offical website](https://golang.org/)
+  - [ ] [Golang official Docs](https://golang.org/doc/)
+  - [ ] [A Tour of Go](https://tour.golang.org/list)
+
 ## Frameworks
 <img src="images/frameworks.jpg" width="755" height="422">
 
