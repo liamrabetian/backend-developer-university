@@ -16,6 +16,8 @@
   - [ ] [Golang offical website](https://golang.org/)
   - [ ] [Golang official Docs](https://golang.org/doc/)
   - [ ] [A Tour of Go](https://tour.golang.org/list)
+  - [ ] [Building Web Apps With Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
+  - [ ] [Build Web Application With Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
 
 ## Frameworks
 <img src="images/frameworks.jpg" width="755" height="422">
